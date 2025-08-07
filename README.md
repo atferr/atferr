@@ -6,3 +6,6 @@ Soy Lucas! Full Stack Developer
 
 ## Contáctame
 Mientras sigo mi trayectoria en el desarrollo Full Stack, siempre busco proyectos y oportunidades colaborativas donde pueda aportar mis habilidades y crecer tanto personal como profesionalmente. ¡Conectemos y exploremos cómo podemos crear algo increíble juntos!
+
+## Hobbies
+Jugar
