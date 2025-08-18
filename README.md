@@ -10,3 +10,6 @@ Mientras sigo mi trayectoria en el desarrollo Full Stack, siempre busco proyecto
 ## Tecnologías
 - Back-End: Soy experto en Java y aporto un sólido conocimiento del desarrollo del lado del servidor...
 - Front-End: Mi experiencia en Angular me permite crear interfaces interactivas y fáciles de usar...
+
+## Skills
+Harto jugador 
