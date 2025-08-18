@@ -7,5 +7,9 @@ Soy Lucas! Full Stack Developer
 ## Contáctame
 Mientras sigo mi trayectoria en el desarrollo Full Stack, siempre busco proyectos y oportunidades colaborativas donde pueda aportar mis habilidades y crecer tanto personal como profesionalmente. ¡Conectemos y exploremos cómo podemos crear algo increíble juntos!
 
+## Tecnologías
+- Back-End: Soy experto en Java y aporto un sólido conocimiento del desarrollo del lado del servidor...
+- Front-End: Mi experiencia en Angular me permite crear interfaces interactivas y fáciles de usar...
+
 ## Skills
 Harto jugador 
